@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Custom Ignore
+.DS_Store
+build
